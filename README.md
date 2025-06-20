@@ -1,4 +1,4 @@
-# college_event_poratl
+# college_event_portal
 A Python Flask-based portal for managing and registering cultural events at college
 
 ## Features
